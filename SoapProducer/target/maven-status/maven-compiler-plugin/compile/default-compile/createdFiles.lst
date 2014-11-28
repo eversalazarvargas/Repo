@@ -1,0 +1,3 @@
+com\accenture\soapproducer\model\Person.class
+com\accenture\soapproducer\service\RFCCalculatorImpl.class
+com\accenture\soapproducer\service\RFCCalculator.class
